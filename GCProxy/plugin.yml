@@ -1,0 +1,8 @@
+name: GlowCloudProxy
+main: ru.glowcloud.plugin.proxy.Main
+version: 6.0
+author: GlowCloud
+commands:
+  hub:
+    usage: /<command>
+    description: Teleports you to the hub server

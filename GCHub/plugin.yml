@@ -1,0 +1,10 @@
+main: ru.glowcloud.plugin.hub.Plugin
+name: GlowCloudHub
+version: 6.0.0
+commands:
+  spawn:
+    description: Teleports you to spawn
+    using: /<command>
+  fly:
+    description: Enable/Disable flying mode
+    using: /<command>

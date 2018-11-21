@@ -1,0 +1,34 @@
+main: ru.glowcloud.plugin.kitpvp.Plugin
+name: GlowCloudKitPvP
+version: 6.0.0
+commands:
+  coords:
+    description: coords
+    usage: /<command>
+  spawn:
+    description: Телепорт на спавн
+    usage: /<command>
+  warzone:
+    description: Телепорт на арену
+    usage: /<command>
+  swordkit:
+    desciprion: i
+    usage: /<command>
+  bowkit:
+    desciprion: i
+    usage: /<command>
+  potionkit:
+    desciprion: i
+    usage: /<command>
+  deluxekit:
+    desciprion: i
+    usage: /<command>
+  goldkit:
+    desciprion: i
+    usage: /<command>
+  elitekit:
+    desciprion: i
+    usage: /<command>
+  ultrakit:
+    desciprion: i
+    usage: /<command>
